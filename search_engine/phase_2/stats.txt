@@ -1,0 +1,4 @@
+index-file-size = 8.9GB
+no-files-inverted-index=1
+37775367
+temporary-offsets-files=38
